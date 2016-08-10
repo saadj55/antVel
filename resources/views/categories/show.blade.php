@@ -7,7 +7,7 @@
 
 
     <div ng-controller="CategoryController" class="panel panel-default">
-        <div class="panel-heading"><h6><span class="glyphicon glyphicon-tasks"></span> {{ trans('globals.category') }}</div></h6>
+        <div class="panel-heading"><h6><span class="glyphicon glyphicon-tasks"></span> {{ trans('globals.category') }}</h6></div>
         <div class="panel-body">
             <div class="row form-group">
                 <label class="col-md-4 control-label">{{ trans('globals.name') }}</label>
